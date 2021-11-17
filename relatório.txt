@@ -1,0 +1,10 @@
+COGNITO Inc. Uso do espa�o em disco pelos usu�rios
+------------------------------------------------------------------------
+Nr. Usu�rio       Espa�o utilizado      %  do uso 
+
+1  everaldo             60.0 MB               0.60 %
+2  pedro             20.0 MB               0.20 %
+3  lucas             20.0 MB               0.20 %
+------------------------------------------------------------------------
+Espa�o total ocupado: 100.0 MB 
+Espa�o m�dio ocupado: 33.33 MB 
